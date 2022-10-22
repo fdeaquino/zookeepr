@@ -117,6 +117,15 @@
         "loving"
       ],
       "id": "11"
+    },
+    {
+      "name": "Puppy",
+      "species": "Doggie",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "loving"
+      ],
+      "id": "12"
     }
   ]
 }
